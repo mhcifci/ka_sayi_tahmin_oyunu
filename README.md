@@ -1,16 +1,13 @@
-# ka_sayi_tahmin_oyunu
+# Sayı Tahmin Oyunu
+## Flutter ile yazılmış sayı tahmin oyunu.
 
-A new Flutter project.
+Öğrenim aşamasında olduğum Flutter ile dersleri izlerken pratik amacıyla yazdığım uygulama, telefonuma özellikle yükledim arada oynuyorum :)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Level sistemi geliştirilecek
+- Geçmiş skorlar eklenecek
+- ResultScreen'de istatistikler gösterilecek.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://raw.githubusercontent.com/mhcifci/ka_sayi_tahmin_oyunu/main/screenshots/cover.png)
